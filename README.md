@@ -24,6 +24,7 @@ $ cargo run
 
 
 ## Demo
+- <h3>Matrix Cubes</h3>
 
 <img src="assets/screenshots/demo1.gif" height="500"/>
 
